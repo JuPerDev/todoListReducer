@@ -3,8 +3,8 @@ This is a Todo List application built with **React**. It allows users to add, re
 
 ## Features
 
-- **Add Tasks **: Users can add new tasks to the list.
-- **Remove Tasks **: Users can delte tasks from the list.
+- **Add Tasks**: Users can add new tasks to the list.
+- **Remove Tasks**: Users can delte tasks from the list.
 - **Custom Hooks**:A custom hook is used to handle task logic.
 
 ## Technologies Used
